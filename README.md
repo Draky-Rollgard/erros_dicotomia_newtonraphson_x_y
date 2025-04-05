@@ -1,0 +1,1 @@
+# erros_dicotomia_newtonraphson_x_y
